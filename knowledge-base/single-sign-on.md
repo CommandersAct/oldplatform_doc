@@ -28,10 +28,10 @@ Please contact a Commanders Act consultant to initiate the setup. You will then 
 Following you will find an overview of the SAML API endpoints used by Commanders Act.&#x20;
 
 **ACS URL/Endpoint URL** \
-****[https://platform.commandersact.com/saml2-acs/\<name>](https://v6.commandersact.com/saml2-acs/schneider)
+****https://platform.commandersact.com/saml2-acs/\<name>
 
 **Login URL** \
-[https://platform.commandersact.com/saml/\<name>](https://v6.commandersact.com/saml/schneider)
+https://platform.commandersact.com/saml/\<name>
 
 **SP Entity ID/Partner's Realm**\
 commanders-act
